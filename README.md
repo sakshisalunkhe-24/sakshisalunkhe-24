@@ -8,8 +8,8 @@
 - 👩‍🎓 Final year student at **D.Y. Patil College.**
 - 🌱 Currently exploring ****
 - 🎯 Looking to contribute to **Open Source**
-- 🖥️ Portfolio: [Portfolio](https://sakshisalunkhe-24.github.io/portfolio)
-- 📫 Email: [Email](mailto:your-email@sakshisalunkhe466@gmail.com)
+- 👩‍💻 Know me more: [Portfolio](https://sakshisalunkhe-24.github.io/portfolio)
+- 📧 Feel free to reach out to me here: [Email](mailto:your-email@sakshisalunkhe466@gmail.com)
 
 ---
 
