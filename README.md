@@ -1,16 +1,15 @@
-# Sakshi Salunkhe
 # Hey there, 👋 I'm Sakshi Salunkhe
 
 ### Aspiring Global Tech Professional 
-
+### Driven by Innovation and Growth 
 ---
 
 ## 🙋‍♀️ About Me
-- 👩‍🎓 Final year student at **D.Y. Patil College...**
+- 👩‍🎓 Final year student at **D.Y. Patil College.**
 - 🌱 Currently exploring ****
 - 🎯 Looking to contribute to **Open Source**
-- 🖥️ Portfolio: [your-portfolio-link](https://sakshisalunkhe-24.github.io/portfolio)
-- 📫 Email: [your-email@example.com](mailto:your-email@sakshisalunkhe466@gmail.com)
+- 🖥️ Portfolio: [portfolio](https://sakshisalunkhe-24.github.io/portfolio)
+- 📫 Email: [email](mailto:your-email@sakshisalunkhe466@gmail.com)
 
 ---
 
