@@ -15,7 +15,7 @@
 
 - 🔭 I’m looking to contribute to **Open Source**
 
-- 👨‍💻 Know me more: <a href="sakshisalunkhe-24.github.io/portfolio/" style="text-decoration: none;">Portfolio</a>
+- 👨‍💻 Know me more:(https://sakshisalunkhe-24.github.io/portfolio)
 
 - 📝 Feel free to reach out to me here: <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=sakshisalunkhe466@gmail.com" style="text-decoration: none;">Email</a>
 
