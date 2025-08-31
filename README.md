@@ -15,7 +15,7 @@
 
 - 🔭 I’m looking to contribute to **Open Source**
 
-- 👨‍💻 Know me more: <a href="sakshisalunkhe-24.github.io/portfolio" style="text-decoration: none;">Portfolio</a>
+- 👨‍💻 Know me more: <a href="sakshisalunkhe-24.github.io/portfolio/" style="text-decoration: none;">Portfolio</a>
 
 - 📝 Feel free to reach out to me here: <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=sakshisalunkhe466@gmail.com" style="text-decoration: none;">Email</a>
 
@@ -45,7 +45,7 @@
   
 <h4> 📬 Reach me out </h4>
 <p align="left"> 
-<a href = "https://www.linkedin.com/in/sakshisalunkhe-24"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> <!--
+<a href = "https://www.linkedin.com/in/sakshisalunkhe01"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> <!--
 <a href = "https://twitter.com/sakshi_goyat"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> -->
 <a href = "https://www.instagram.com//"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> <!--
 <a href = "https://leetcode.com/sakshigoyat14/"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" height="50rem" width="50rem"/></a>  -->
