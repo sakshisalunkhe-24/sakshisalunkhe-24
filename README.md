@@ -53,6 +53,11 @@ A responsive travel booking website with a modern UI. It includes features like 
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>  -->
   
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
+
+  
 <h4> 📬 Reach me out </h4>
 <p align="left"> 
 <a href = "https://www.linkedin.com/in/sakshisalunkhe01"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> <!--
