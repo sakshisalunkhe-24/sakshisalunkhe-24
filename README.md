@@ -1,5 +1,5 @@
-# SakshiSalunkhe
-# Hi 👋, I'm YOUR NAME
+# Sakshi Salunkhe
+# Hey there, 👋 I'm Sakshi Salunkhe
 
 ### Aspiring Global Tech Professional 
 
@@ -7,9 +7,9 @@
 
 ## 🙋‍♀️ About Me
 - 👩‍🎓 Final year student at **D.Y. Patil College...**
-- 🌱 Currently exploring **W**
+- 🌱 Currently exploring ****
 - 🎯 Looking to contribute to **Open Source**
-- 🖥️ Portfolio: [your-portfolio-link](https://)
+- 🖥️ Portfolio: [your-portfolio-link](https://sakshisalunkhe-24.github.io/portfolio)
 - 📫 Email: [your-email@example.com](mailto:your-email@sakshisalunkhe466@gmail.com)
 
 ---
@@ -25,6 +25,6 @@
 
 ## 🌐 Reach me out
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshisalunkhe-24/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR-INSTAGRAM)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
 
 ---
