@@ -11,9 +11,8 @@
 </p>
 
 ### 🙋‍♂️ About Me
-- 👩‍🎓 I'm a final year at  **D.Y Patil College of Agriculture and Technical University Talsande , Kolhapur studying Bachelor of Computer Applications (BCA)**
-
-- 🔭 I’m looking to contribute to **Open Source**
+- 👩‍🎓 I'm a final year at (BCA) student at  **D.Y Patil College of Agriculture and Technical University Talsande , Kolhapur studying Bachelor of Computer Applications (BCA)**
+- 🛠️ I love building full-stack projects that combine creativity with functionality. 
 
 - 👨‍💻 Know me more: [Portfolio](https://sakshisalunkhe-24.github.io/portfolio)
 
