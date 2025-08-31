@@ -41,8 +41,6 @@ My personal portfolio website to showcase skills, projects, education, contact s
 A responsive travel booking website with a modern UI. It includes features like destination gallery, about, booking form, responsive navbar, and testimonials. Built with **HTML, CSS, and JavaScript**.  
 
 ### 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=SakshiGoyat&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=SakshiGoyat&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiGoyat&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  -->
 
   
