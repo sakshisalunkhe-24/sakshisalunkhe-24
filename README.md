@@ -28,10 +28,18 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 
 ### 🛠 Featured Projects
-- 🚀 [Online Food Ordering System](link-to-repo) – MERN project with authentication & payments
-- 🌍 [Travel Website](link-to-repo) – Responsive frontend project
-- 🤖 [AI/ML Project](link-to-repo) – Machine learning model with Flask/Streamlit
-  <!--
+🤖 **AI Powered Virtual Assistant**  
+A smart voice-based alexa built with Python that can perform tasks like searching the web, tell jokes, opening apps, and answering questions using NLP.  
+
+🎮 **Pong Game**  
+Classic Pong game built with Python (Pygame) / JavaScript. Focused on game loop, collision detection, scoring, and player controls.  
+
+🌐 **Portfolio Website**  
+My personal portfolio website to showcase skills, projects, education, contact section, and achievements. Built with HTML, CSS, and JavaScript.  
+
+🌍 **Tourism Management System**  
+A responsive travel booking website with a modern UI. It includes features like destination gallery, about, booking form, responsive navbar, and testimonials. Built with **HTML, CSS, and JavaScript**.  
+
 ### 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SakshiGoyat&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=SakshiGoyat&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br />
