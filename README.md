@@ -1,15 +1,14 @@
 # Hey there, 👋 I'm Sakshi Salunkhe
 
-### Aspiring Global Tech Professional 
-### Driven by Innovation and Growth 
+### Aspiring Global Tech Professional | Driven by Innovation and Growth 
 ---
 
 ## 🙋‍♀️ About Me
 - 👩‍🎓 Final year student at **D.Y. Patil College.**
 - 🌱 Currently exploring ****
 - 🎯 Looking to contribute to **Open Source**
-- 🖥️ Portfolio: [portfolio](https://sakshisalunkhe-24.github.io/portfolio)
-- 📫 Email: [email](mailto:your-email@sakshisalunkhe466@gmail.com)
+- 👩‍💻 Know me more: [portfolio](https://sakshisalunkhe-24.github.io/portfolio)
+- 📧 Feel free to reach out to me here: [email](mailto:your-email@sakshisalunkhe466@gmail.com)
 
 ---
 
@@ -24,6 +23,3 @@
 
 ## 🌐 Reach me out
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshisalunkhe-24/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
-
----
