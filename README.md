@@ -15,7 +15,7 @@
 
 - 🤝 Open to collaborating on **frontend projects, C programming challenges, and beginner-friendly open source contributions.**
 
-- 👨‍💻 Know me more: [Portfolio](https://sakshisalunkhe-24.github.io/portfolio)
+- 👨‍💻 Know me more: [Portfolio](https://sakshisalunkhe-24.github.io/Portfolio)
 
 - 📧 Feel free to reach out to me here: <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=sakshisalunkhe466@gmail.com" style="text-decoration: none;">Email</a>
 
@@ -35,9 +35,6 @@
 ### 🛠 Featured Projects
 🤖 **AI Powered Virtual Assistant**  
 A smart voice-based alexa built with Python that can perform tasks like searching the web, tell jokes, opening apps, and answering questions using NLP.  
-
-🎮 **Pong Game**  
-Classic Pong game built with Python (Pygame) / JavaScript. Focused on game loop, collision detection, scoring, and player controls.  
 
 🌐 **Portfolio Website**  
 My personal portfolio website to showcase skills, projects, education, contact section, and achievements. Built with HTML, CSS, and JavaScript.  
