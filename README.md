@@ -34,13 +34,20 @@
 
 ### 🛠 Featured Projects
 🤖 **AI Powered Virtual Assistant**  
-A smart voice-based alexa built with Python that can perform tasks like searching the web, tell jokes, opening apps, and answering questions using NLP.  
+- Developed an intelligent virtual assistant (Alexa) leveraging Natural Language Processing (NLP) and 
+  machine learning to handle user queries and automate tasks.
+- Integrated speech recognition and text-to-speech (TTS) for seamless interaction.
+- Integrated YouTube playback via API to stream requested songs and also provides real-time information.
 
 🌐 **Portfolio Website**  
-My personal portfolio website to showcase skills, projects, education, contact section, and achievements. Built with HTML, CSS, and JavaScript.  
+- Developed a personal portfolio website to showcase my skills and projects.
+- Used HTML, CSS, JavaScript to create a responsive and clean design.
+- Integrated sections for projects, skills, and contact information.   
 
 🌍 **Tourism Management System**  
-A responsive travel booking website with a modern UI. It includes features like destination gallery, about, booking form, responsive navbar, and testimonials. Built with **HTML, CSS, and JavaScript**.  
+- Developed a responsive travel booking website with a modern UI.
+- Includes features like destination gallery, about, booking form, responsive navbar, and testimonials.
+- Built with HTML, CSS, and JavaScript.  
 
 
 
